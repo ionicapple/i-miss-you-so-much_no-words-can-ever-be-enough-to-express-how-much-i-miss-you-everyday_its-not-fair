@@ -9,3 +9,5 @@ i got a nail in my tire theyre saying so lame dads going to get it fixed elsewhe
 i wanna go home so badly, like i cant stand anyone here im sure theyre good people and they didnt do anything to me but im at a point where if someone anyone makes eye contact even for a second with me theyre prolly getting a death stare back from me lol jk but thats how badly i want to go homee
 
 i keep thinking i can leave but oh yeah duh they have my car
+
+my time for writing code is going to be like 5:30am/6 am to 1 pm ... then ill go to the gym bc i havent gone in awhile, then, ill read something which i havent done in awhile either
