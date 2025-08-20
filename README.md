@@ -11,3 +11,5 @@ i wanna go home so badly, like i cant stand anyone here im sure theyre good peop
 i keep thinking i can leave but oh yeah duh they have my car
 
 my time for writing code is going to be like 5:30am/6 am to 1 pm ... then ill go to the gym bc i havent gone in awhile, then, ill read something which i havent done in awhile either
+
+i think the decision m s k made was really sh*tty and im trying not to think about it like i worked so fking hard i barely left the house all summer like i had no fun whatsoever id barely even talk to u during work hrs like wth
