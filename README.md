@@ -23,6 +23,8 @@ i am going to eat then im going to take a walk and listen to a non-fiction audio
 
 im logging off for the rest of the day bc im annoyed about something, im gonna read surah kahf tomorrow bc its been awhileee since i did that, it takes me an hr and ill work on some R code, im just annoyed today i think yesterday like 5 hrs of waiting for my car just annoyed me lol and im still annoyed
 
+u can respond to me whenever, im gonna go out and get coffee for tomorrow and be screenfree for the rest of the day i hopeeee
+
 # tidyBED
 * could be a paper in the future but for now its for fun ... something fun-ish to learn about 2025 R package development, tidyverse (which is a great way to get people to use ur package) and how R handles large files, setting up Rstudio like its 2025 etc bunch of new stuff ive wanted to learn, how to write documentation about the package the 2025 way etc and writing unit tests, submitting the package to cran (or whatever it is now) see like my knowlege of R mostly stops at like 2014 in this area so i dunno how to do all this stuff now
 
