@@ -17,6 +17,10 @@ out to dinner with my parents once i get home im going to sleepp and then wake u
 
 my dad says i should learn huggingface
 
+my friend was sharing some incubus songs he was listening to a few weeks ago and i was like omg i use to be a huge fan but not in the past i dunno few yrs i havent really listened to them again, like i saw them live with my brother a few yrs ago and they were good, but this song `rgyy-gp7l4k` is really good i dunno
+
+i am going to eat then im going to take a walk and listen to a non-fiction audiobook i started umm last winter
+
 # tidyBED
 * could be a paper in the future but for now its for fun ... something fun-ish to learn about 2025 R package development, tidyverse (which is a great way to get people to use ur package) and how R handles large files, setting up Rstudio like its 2025 etc bunch of new stuff ive wanted to learn, how to write documentation about the package the 2025 way etc and writing unit tests, submitting the package to cran (or whatever it is now) see like my knowlege of R mostly stops at like 2014 in this area so i dunno how to do all this stuff now
 
