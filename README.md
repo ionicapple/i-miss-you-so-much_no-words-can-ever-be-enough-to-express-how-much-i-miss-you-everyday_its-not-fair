@@ -27,6 +27,10 @@ u can respond to me whenever, im gonna go out and get coffee for tomorrow and be
 
 nice day todayy
 
+https://www.tiktok.com/@marls_rowan/video/7539576498143923487 lol trueeee
+
+pretty busy for the rest of the day, really still annoyed by something everything is annoying me day 2?? day 3?? maybe some pictures tomorrow
+
 # tidyBED
 * could be a paper in the future but for now its for fun ... something fun-ish to learn about 2025 R package development, tidyverse (which is a great way to get people to use ur package) and how R handles large files, setting up Rstudio like its 2025 etc bunch of new stuff ive wanted to learn, how to write documentation about the package the 2025 way etc and writing unit tests, submitting the package to cran (or whatever it is now) see like my knowlege of R mostly stops at like 2014 in this area so i dunno how to do all this stuff now
 
