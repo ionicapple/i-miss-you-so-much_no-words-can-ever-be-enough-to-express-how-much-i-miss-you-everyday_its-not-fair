@@ -35,6 +35,8 @@ im going to get back on my programming stuff on monday, just catching up on thin
 
 going to watch something then sleep!! watching a movie in theatres tomorrow with my dad
 
+https://x.com/zoerosebryant/status/1958970833604333700 ok good idea!!
+
 
 # tidyBED
 * could be a paper in the future but for now its for fun ... something fun-ish to learn about 2025 R package development, tidyverse (which is a great way to get people to use ur package) and how R handles large files, setting up Rstudio like its 2025 etc bunch of new stuff ive wanted to learn, how to write documentation about the package the 2025 way etc and writing unit tests, submitting the package to cran (or whatever it is now) see like my knowlege of R mostly stops at like 2014 in this area so i dunno how to do all this stuff now
