@@ -41,6 +41,8 @@ dad wants to watch the movie in theaters next weekend, i think im doing some rea
 
 dinner with my parents, gonna watch a movie, sleep, tomrrow is a programming dayy
 
+i really wanna get a slice of nj pizza but i havent eaten pizza in months bc the carbs are too much for me, but i can eat like half a slice or maybe ill get some soup
+
 # tidyBED
 * could be a paper in the future but for now its for fun ... something fun-ish to learn about 2025 R package development, tidyverse (which is a great way to get people to use ur package) and how R handles large files, setting up Rstudio like its 2025 etc bunch of new stuff ive wanted to learn, how to write documentation about the package the 2025 way etc and writing unit tests, submitting the package to cran (or whatever it is now) see like my knowlege of R mostly stops at like 2014 in this area so i dunno how to do all this stuff now
 
