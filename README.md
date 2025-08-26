@@ -45,6 +45,8 @@ i really wanna get a slice of nj pizza but i havent eaten pizza in months bc the
 
 got a slice of burrata pizza, went to the gym (havent gone in like a year T_T but the membership is like $16/mo so i never canceled it), listened to a nonfiction audiobook, got some things from target, got a really really interesting book from target, got some baby carrots and hummus, saw this new brand of ice cream that has 30g of protein in a pint and i was like i really dont know if i want it or not so i didnt get it, maybe ill finish this movie then gonna sleep soon
 
+im going to go to target later and grab that pint of 30g of protein ice cream 😂 i changed my mind, i want it now lol
+
 # tidyBED
 * could be a paper in the future but for now its for fun ... something fun-ish to learn about 2025 R package development, tidyverse (which is a great way to get people to use ur package) and how R handles large files, setting up Rstudio like its 2025 etc bunch of new stuff ive wanted to learn, how to write documentation about the package the 2025 way etc and writing unit tests, submitting the package to cran (or whatever it is now) see like my knowlege of R mostly stops at like 2014 in this area so i dunno how to do all this stuff now
 
