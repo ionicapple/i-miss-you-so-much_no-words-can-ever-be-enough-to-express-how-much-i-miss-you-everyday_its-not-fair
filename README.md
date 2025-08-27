@@ -49,6 +49,8 @@ im going to go to target later and grab that pint of 30g of protein ice cream ðŸ
 
 need lots of coffee today, going through a book today so i may be quiet throughout the day
 
+my bro and his wife are going to italy next week, theyre doing a road trip and he asked me to make a list of things i want, and im like i dunno i dont eat carbs and sugar that much so i dont want cookies and stuff, trying to think of what i want
+
 # tidyBED
 * could be a paper in the future but for now its for fun ... something fun-ish to learn about 2025 R package development, tidyverse (which is a great way to get people to use ur package) and how R handles large files, setting up Rstudio like its 2025 etc bunch of new stuff ive wanted to learn, how to write documentation about the package the 2025 way etc and writing unit tests, submitting the package to cran (or whatever it is now) see like my knowlege of R mostly stops at like 2014 in this area so i dunno how to do all this stuff now
 
