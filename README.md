@@ -49,7 +49,7 @@ im going to go to target later and grab that pint of 30g of protein ice cream ðŸ
 
 need lots of coffee today, going through a book today so i may be quiet throughout the day
 
-my bro and his wife are going to italy next week, theyre doing a road trip and he asked me to make a list of things i want, and im like i dunno i dont eat carbs and sugar that much so i dont want cookies and stuff, trying to think of what i want
+my bro and his wife are going to italy next week, theyre doing a road trip and he asked me to make a list of things i want, and im like i dunno i dont eat carbs and sugar that much so i dont want cookies and stuff, trying to think of what i want ... theres that line from that old but good kanye song "i don't see why i need a stylist ... when i shop so much i can speak italian" i should be like "bruh the kind of stuff i want from there is def outta yo budget for cookies" ðŸ˜‚ lolol im gonna say that to my brother hahaha
 
 i wanna work on tidyBED but im just taking a break this week, a little lazy?? i dunno im just catching up on some nonfiction reading, i just want to destress, ill get back to it like 200% next week
 
