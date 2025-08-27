@@ -1,5 +1,5 @@
 # i-miss-you-so-much_no-words-can-ever-be-enough-to-express-how-much-i-miss-you-everyday_its-not-fair
-# ZAz3rnLGthg "hey mona lisa come home you know you cant roam without caesar" 😂 #oldkanye
+# ZAz3rnLGthg "hey mona lisa come home you know you cant roam without caesar" 😂 & "and i heard 'em say _nothing's ever promised tomorrow today_ ... they say people in your life are seasons and anything that happen is for a reason" #oldkanye
 
 
 gotta get my car serviced this morning then i need to learn about how people create packages in R in 2025, i know the old way i dont think thats how people do it anymore then i need some bed files to play around with ... see a bunch of small problems to solve
