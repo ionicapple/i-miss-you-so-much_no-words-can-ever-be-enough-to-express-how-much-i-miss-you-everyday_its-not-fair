@@ -51,6 +51,8 @@ need lots of coffee today, going through a book today so i may be quiet througho
 
 my bro and his wife are going to italy next week, theyre doing a road trip and he asked me to make a list of things i want, and im like i dunno i dont eat carbs and sugar that much so i dont want cookies and stuff, trying to think of what i want
 
+i wanna work on tidyBED but im just taking a break this week, a little lazy?? i dunno im just catching up on some nonfiction reading, i just want to destress, ill get back to it like 200% next week
+
 # tidyBED
 * could be a paper in the future but for now its for fun ... something fun-ish to learn about 2025 R package development, tidyverse (which is a great way to get people to use ur package) and how R handles large files, setting up Rstudio like its 2025 etc bunch of new stuff ive wanted to learn, how to write documentation about the package the 2025 way etc and writing unit tests, submitting the package to cran (or whatever it is now) see like my knowlege of R mostly stops at like 2014 in this area so i dunno how to do all this stuff now
 
