@@ -47,6 +47,8 @@ got a slice of burrata pizza, went to the gym (havent gone in like a year T_T bu
 
 im going to go to target later and grab that pint of 30g of protein ice cream 😂 i changed my mind, i want it now lol
 
+need lots of coffee today, going through a book today so i may be quiet throughout the day
+
 # tidyBED
 * could be a paper in the future but for now its for fun ... something fun-ish to learn about 2025 R package development, tidyverse (which is a great way to get people to use ur package) and how R handles large files, setting up Rstudio like its 2025 etc bunch of new stuff ive wanted to learn, how to write documentation about the package the 2025 way etc and writing unit tests, submitting the package to cran (or whatever it is now) see like my knowlege of R mostly stops at like 2014 in this area so i dunno how to do all this stuff now
 
