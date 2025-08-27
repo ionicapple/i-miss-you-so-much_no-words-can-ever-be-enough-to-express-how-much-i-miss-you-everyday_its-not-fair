@@ -1,6 +1,7 @@
 # i-miss-you-so-much_no-words-can-ever-be-enough-to-express-how-much-i-miss-you-everyday_its-not-fair
 # ZAz3rnLGthg "hey mona lisa come home you know you cant roam without caesar" 😂 & "and i heard 'em say _nothing's ever promised tomorrow today_ ... they say people in your life are seasons and anything that happen is for a reason" #oldkanye
 # "i am american mentally with japanese tendencies, parisian sensibility" & "only fear God, know the weapons of the WEAK, the weakness of the HEART and never fall asleep" (omggg if i were ever to get a tattoo that would be it but i dont like that stuff, its not for me) & "now we can do nothing 'bout the past but we can do something about the future that we have, we can make fast or we can make it last" - LUPE FIASCO the best rapper ever, no contest, just the best
+# "constitution written by W.E.B. Du Bois" - LUPE FIASCO ... that right there, is what makes lupe # 1 theres no way kendrick or old/new kanye would say that and that is why we like lupe and everything he does and says lol
 # "they not like us -- it was god's plan to show you the liar" - kendrick lamar (3rd best *only* after old kanye)
 
 gotta get my car serviced this morning then i need to learn about how people create packages in R in 2025, i know the old way i dont think thats how people do it anymore then i need some bed files to play around with ... see a bunch of small problems to solve
