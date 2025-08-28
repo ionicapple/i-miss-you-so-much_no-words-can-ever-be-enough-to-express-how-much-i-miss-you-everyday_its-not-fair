@@ -58,6 +58,8 @@ i wanna work on tidyBED but im just taking a break this week, a little lazy?? i 
 
 theres a new doc about hurricane katrina on netflix i wanted to watch it but u know i cant handle sad stuff atm, i should push myself to watch it but i remember what happened
 
+my parents are getting a hotel for a few days in long island next week lol whats there to do in LI, we will find out haha
+
 # tidyBED
 * could be a paper in the future but for now its for fun ... something fun-ish to learn about 2025 R package development, tidyverse (which is a great way to get people to use ur package) and how R handles large files, setting up Rstudio like its 2025 etc bunch of new stuff ive wanted to learn, how to write documentation about the package the 2025 way etc and writing unit tests, submitting the package to cran (or whatever it is now) see like my knowlege of R mostly stops at like 2014 in this area so i dunno how to do all this stuff now
 
