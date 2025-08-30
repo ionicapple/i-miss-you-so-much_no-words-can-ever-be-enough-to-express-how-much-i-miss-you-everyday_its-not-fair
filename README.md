@@ -66,6 +66,8 @@ reading a book on chaos theory and coming up with a new field bc i like physics,
 
 had some soup for dinner, pics on sunday maybe we're doing something, def going to the gym tomorrow
 
+- [ ] my mom keeps mentioning like all day, prolly like 5x today, that she got me fish sticks from the grocery store LOL and theyre in the fridge so i have to eat them tomorrow so this is my reminder to consume them tomorrow
+
 # tidyBED
 * could be a paper in the future but for now its for fun ... something fun-ish to learn about 2025 R package development, tidyverse (which is a great way to get people to use ur package) and how R handles large files, setting up Rstudio like its 2025 etc bunch of new stuff ive wanted to learn, how to write documentation about the package the 2025 way etc and writing unit tests, submitting the package to cran (or whatever it is now) see like my knowlege of R mostly stops at like 2014 in this area so i dunno how to do all this stuff now
 
